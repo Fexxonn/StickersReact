@@ -1,0 +1,12 @@
+.Container_Stickers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: auto;
+  gap: 1pc;
+
+  flex-wrap: wrap;
+
+  padding: 1pc 0;
+}
